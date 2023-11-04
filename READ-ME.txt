@@ -1,4 +1,4 @@
-  =>  Template Name    : Startup - Startup Website Template
+  =>  Template Name    : DotComs.in - DotComs.in Website Template
 
   =>  Template Link    : https://htmlcodex.com/startup-website-template
 
