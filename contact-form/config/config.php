@@ -21,3 +21,4 @@ return [
         'btn-send' => 'Send'
     ]
 ];
+?>
