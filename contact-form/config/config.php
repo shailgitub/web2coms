@@ -25,7 +25,7 @@
 $servername = "localhost";
 $username = "root"; 
 $password = "DotComs#123"; 
-$dbname = "dotcomstestdb"; 
+$dbname = "u578284440_dotcomstestdb"; 
 $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
